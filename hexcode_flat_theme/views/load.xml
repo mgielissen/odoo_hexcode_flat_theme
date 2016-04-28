@@ -1,0 +1,10 @@
+<openerp>
+    <data>
+        <template id="hexcode_material_theme" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900,700italic,500italic,900italic,400italic,300italic,100italic' rel='stylesheet' type='text/css'/>
+            <link rel="stylesheet" href="/hexcode_flat_theme/static/src/css/theme.css"/>
+            </xpath>
+        </template>
+    </data>
+</openerp>
